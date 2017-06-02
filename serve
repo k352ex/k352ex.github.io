@@ -1,2 +1,2 @@
 #!/bin/bash
-jekyll serve -P $PORT -H $IP
+jekyll serve -P $PORT -H $IP --baseurl

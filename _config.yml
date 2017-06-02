@@ -9,10 +9,10 @@ description: >
 # Your information
 email: k352ex@naver.com
 author: Minki Pak
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+avatar: "https://avatars3.githubusercontent.com/u/9359749?v=3&s=460"
 profile: Python, Django, C++, Algorithm 공부한 내용을 정리하는 블로그입니다.
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  k352ex
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
